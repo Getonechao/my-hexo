@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 枪火莽夫的克苏鲁
+subtitle: '阿撒托斯'
+description: '张超的个人博客网站，用于学习、分享、记录工程师的成长之路'
+keywords: c++,ros,ros2,AGV,robot,嵌入式,Linux
+author: 张超
+language: zh-CN
 timezone: ''
 
 # URL
